@@ -69,7 +69,7 @@
         <table border="0" width="100%">
             <tr>
                 <td style="border: 0px;" align="right" width="10%">
-                    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Lambang_Kabupaten_Balangan.png/354px-Lambang_Kabupaten_Balangan.png" width="40px" height="50px">
+                    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Lambang_Kabupaten_Balangan.png/640px-Lambang_Kabupaten_Balangan.png" width="40px" height="50px">
                 </td>
                 <td style="border: 0px;" valign="top" align="center" width="90%">
                     <span style="font-size: 18px;"><strong>Dinas  Ketahanan   Pangan,  Pertanian   dan   Perikanan  <br/>
